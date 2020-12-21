@@ -118,7 +118,7 @@ function buildCustomizationVariableTable() {
     <td><input type="number" id="twoEquationsX0" value="1"></td>
     </tr>
     <tr>
-    <td colspan="4" align="center"><button class="btn">Розв'язати</button></td>
+    <td colspan="4" align="center"><button class="btn" onclick="solve()">Розв'язати</button></td>
   </tr>`;
 }
 
